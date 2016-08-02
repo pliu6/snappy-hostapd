@@ -1,4 +1,4 @@
-name: hostapd
+name: paradrop-hostapd
 version: 2.4
 vendor: Paradrop Labs
 type: framework
